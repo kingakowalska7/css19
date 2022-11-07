@@ -1,0 +1,44 @@
+body {
+    background-color: #f5f5dd;
+    background-size: cover;
+}
+
+
+#square1 {
+    
+    width:200px;
+    height: 200px;
+    background-color:black;
+    margin: 20px auto 0;
+    
+  }
+
+
+#square2 {
+    
+    width:200px;
+    height: 200px;
+    background-color:rgba(0, 0, 0, 0.645);
+    margin: 20px auto 0;
+    
+  }
+
+
+#square3 {
+    
+    width:200px;
+    height: 200px;
+    background-color:rgba(0, 0, 0, 0.515);
+    margin: 20px auto 0;
+    
+  }
+
+
+#square4 {
+    
+    width:200px;
+    height: 200px;
+    background-color:rgba(0, 0, 0, 0.297);
+    margin: 20px auto 0;
+    
+  }
