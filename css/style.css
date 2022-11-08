@@ -3,42 +3,27 @@ body {
     background-size: cover;
 }
 
-
-#square1 {
+#square1, #square2, #square3, #square4 {
     
     width:200px;
     height: 200px;
-    background-color:black;
     margin: 20px auto 0;
     
   }
 
+ #square1 {
+    background-color:black; 
+  }
 
 #square2 {
-    
-    width:200px;
-    height: 200px;
     background-color:rgba(0, 0, 0, 0.645);
-    margin: 20px auto 0;
-    
-  }
-
+    }
 
 #square3 {
-    
-    width:200px;
-    height: 200px;
-    background-color:rgba(0, 0, 0, 0.515);
-    margin: 20px auto 0;
-    
+
+    background-color:rgba(0, 0, 0, 0.515); 
   }
 
-
 #square4 {
-    
-    width:200px;
-    height: 200px;
-    background-color:rgba(0, 0, 0, 0.297);
-    margin: 20px auto 0;
-    
+    background-color:rgba(0, 0, 0, 0.297);  
   }
